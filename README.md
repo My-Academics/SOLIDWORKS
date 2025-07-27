@@ -1,4 +1,11 @@
 # SOLIDWORKS
-3D CAD models and design projects created using SOLIDWORKS
 
-[![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc/4.0/)
+📐 3D CAD models and design projects created SOLIDWORKS.
+
+## Contents
+- 📘 Tutorial Models (based on official SolidWorks training materials)
+- 🧠 Exercises (design challenges for practice and skill-building)
+
+## License
+This project is licensed under the [CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/).
+Please credit the author and do not use commercially.
